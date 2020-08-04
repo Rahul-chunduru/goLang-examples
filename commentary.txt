@@ -1,2 +1,9 @@
 Hmm, *, / seems to have same precedence so much for BODMAS
 int is 32 bit in general.
+
+imp stuff ?
+
+Nonetheless, an HTTP server is a program that listens for HTTP requests on a port of the machine with a static or dynamic IP address. The HTTP protocol is an internet protocol made up of TCP and IP protocols.
+
+
+There is a necessasity to have different handler for each url. Common, its not pretty.
