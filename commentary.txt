@@ -1,0 +1,2 @@
+Hmm, *, / seems to have same precedence so much for BODMAS
+int is 32 bit in general.
