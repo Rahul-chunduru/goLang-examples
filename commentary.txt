@@ -7,3 +7,15 @@ Nonetheless, an HTTP server is a program that listens for HTTP requests on a por
 
 
 There is a necessasity to have different handler for each url. Common, its not pretty.
+
+Recover only works from a defer function which is excuted in a panic environment. (but not otherwise)
+
+The interface fiasco in GoLang
+------------------------------
+
+interface{} matches all types. but still may warrant conversions.
+
+:= vs =
+
+check out for 
+		"no new variables on left side of :="
